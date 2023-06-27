@@ -119282,8 +119282,8 @@
     }
   },
   {
-    "id": "maushold-four",
-    "nid": "0925-four",
+    "id": "maushold",
+    "nid": "0925",
     "dexNum": 925,
     "formId": "four",
     "name": "Maushold",
@@ -119346,7 +119346,7 @@
     "height": 30,
     "baseSpecies": null,
     "baseForms": [],
-    "forms": ["maushold"],
+    "forms": ["maushold-three"],
     "evolvesFrom": null,
     "refs": {
       "pogo": "MAUSHOLD_FOUR",
@@ -119359,8 +119359,8 @@
     }
   },
   {
-    "id": "maushold",
-    "nid": "0925",
+    "id": "maushold-three",
+    "nid": "0925-three",
     "dexNum": 925,
     "formId": "three",
     "name": "Maushold Family of Three",
@@ -119382,6 +119382,8 @@
     "isMythical": false,
     "isUltraBeast": false,
     "ultraBeastCode": null,
+    "paradoxSpecies": null,
+    "convergentSpecies": null,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
     "isFemaleForm": false,
@@ -119419,7 +119421,7 @@
     },
     "weight": 230,
     "height": 30,
-    "baseSpecies": "maushold-four",
+    "baseSpecies": "maushold",
     "baseForms": [],
     "forms": [],
     "evolvesFrom": null,
@@ -119431,9 +119433,7 @@
       "bulbapedia": "Maushold",
       "homeSprite": "0925",
       "miniSprite": "0925"
-    },
-    "paradoxSpecies": null,
-    "convergentSpecies": null
+    }
   },
   {
     "id": "fidough",
@@ -125459,6 +125459,8 @@
     "isMythical": false,
     "isUltraBeast": false,
     "ultraBeastCode": null,
+    "paradoxSpecies": null,
+    "convergentSpecies": null,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
     "isFemaleForm": false,
@@ -125479,7 +125481,7 @@
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
     "storableIn": ["home", "sv"],
-    "shinyReleased": false,
+    "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
       "hp": 45,
@@ -125609,6 +125611,8 @@
     "isMythical": false,
     "isUltraBeast": false,
     "ultraBeastCode": null,
+    "paradoxSpecies": null,
+    "convergentSpecies": null,
     "isSpecialAbilityForm": false,
     "isCosmeticForm": false,
     "isFemaleForm": false,
@@ -125629,7 +125633,7 @@
     "versionExclusiveIn": [],
     "eventOnlyIn": [],
     "storableIn": ["go", "home", "sv"],
-    "shinyReleased": false,
+    "shinyReleased": true,
     "shinyBase": null,
     "baseStats": {
       "hp": 87,
